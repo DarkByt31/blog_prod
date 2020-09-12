@@ -1,2 +1,2 @@
 ## Shivansh Blog
-start from here: https://github.com/alxshelepenok/gatsby-starter-lumen
+Start from here: https://github.com/alxshelepenok/gatsby-starter-lumen
